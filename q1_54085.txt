@@ -1,0 +1,2 @@
+KEY: 17
+PLAINTEXT: three rings for the elven-kings under the sky, seven for the dwarflords in their halls of stone, nine for mortal men doomed to die, one for the dark lord on his dark throne; in the land of mordor where the shadows lie. one ring to rule them all, one ring to find them, one ring to bring them all, and in the darkness bind them; in the land of mordor where the shadows lie.
